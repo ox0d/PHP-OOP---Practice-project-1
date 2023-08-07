@@ -1,6 +1,6 @@
 # PHP Object-Oriented Programming Exercises
 
-![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png)
+![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/200px-PHP-logo.svg.png)
 
 ## Overview
 
