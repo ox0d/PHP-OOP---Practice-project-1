@@ -16,7 +16,7 @@ class Circle implements Shape{
   }
 }
 
-class Rectangle {
+class Rectangle implements Shape {
   private $length;
   private $width;
 
